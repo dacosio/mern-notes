@@ -20,3 +20,9 @@
 20230430	11:01:11	92fa421e-5d2c-4f72-9b9d-bf220dbd53b8	DELETE	/api/user	undefined
 20230430	11:02:27	748571a5-39c7-4baf-8f18-e4adf9c96f3c	DELETE	/api/user	undefined
 20230430	11:25:14	7c6bdad5-00d6-4fcc-aaa1-8984cd388782	GET	/api/user	undefined
+20230430	15:39:03	3176e0dd-d4c6-428e-aab6-c88ee335dcb2	GET	/api/user	undefined
+20230430	15:39:10	2fe812bb-5d8b-45d6-9425-3fd722c3e52b	GET	/user	http://localhost:3000
+20230430	15:39:25	8c6ac654-e708-4b4a-afd9-b4aff909248a	POST	/api/user	undefined
+20230430	15:39:30	4c4c2717-f373-43d7-a365-ab0af95313f2	GET	/user	http://localhost:3000
+20230430	15:39:47	da3b0c58-1433-4cac-b28d-14ed7ce6950f	GET	/api/user	undefined
+20230430	15:40:14	bfe1c00c-4601-4076-8f89-1c1c00eecfbc	GET	/api/user	http://localhost:3000
